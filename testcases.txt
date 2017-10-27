@@ -1,0 +1,7 @@
+b|Consonant
+x|Consonant
+a|Vowel
+E|Vowel
+Q|Consonant
+abc|Not a single character
+@|Not an alphabetical character
